@@ -14,7 +14,7 @@ html,body {
   }
   #logo{
    height:10%;
-   width: 10%;
+   width: 15%;
    border-radius: 50%;
    margin-right: 10px;
   }
@@ -23,14 +23,15 @@ html,body {
     margin-right: 10px;
   }
   li{
-    padding-left: 5px;
+    padding-left: 10px;
   }
   a{
     color: white;
   }
   #icons{
-    padding-left: 5px;
+    padding-left: 10px;
     color:white;
+    margin-right: 5px;
   }
   #main{
     color:white;
@@ -44,7 +45,7 @@ html,body {
     background-color: white;
   }
   #img1, #img2,#img4{
-    width: 80%;
+    width: 90%;
     height: 100%;
   }
   #img3,#img5,#img6{
@@ -75,7 +76,11 @@ html,body {
     margin-bottom: 20px;
     width: 90%;
   }
-  #head,p{
+  #head{
     margin-top: 30%;
+    margin-bottom: 10%;
+  }
+  #p1,#p2{
+    margin-top: 50%;
     margin-bottom: 10%;
   }
